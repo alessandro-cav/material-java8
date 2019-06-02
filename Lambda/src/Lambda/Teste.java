@@ -6,7 +6,6 @@ public class Teste {
 	System.out.println("teste");
 	
 	
-	///mais um teste
 	}
 
 }
