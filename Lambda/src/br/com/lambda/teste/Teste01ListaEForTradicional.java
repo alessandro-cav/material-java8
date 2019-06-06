@@ -27,6 +27,10 @@ public class Teste01ListaEForTradicional {
 			System.out.println(produto.toString());
 		}
 		
+		System.out.println("test");
+		
+		System.out.println("test");
+		
 	}
 
 }
