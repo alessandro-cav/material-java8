@@ -28,7 +28,8 @@ public class Teste01ListaEForTradicional {
 		}
 		
 		System.out.println("test");
-		//hhhhhhhhh
+		
+		System.out.println("test");
 		
 	}
 
