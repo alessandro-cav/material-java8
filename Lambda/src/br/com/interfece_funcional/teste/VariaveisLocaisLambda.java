@@ -1,6 +1,6 @@
 package br.com.interfece_funcional.teste;
 
-public class VariaveisLocairLambda {
+public class VariaveisLocaisLambda {
 
 	public static void main(String[] args) {
 
